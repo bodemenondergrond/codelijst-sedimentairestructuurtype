@@ -1,8 +1,8 @@
-# codelijst-secundairestructuurtypes
+# codelijst-secundairestructuurtype
 
 ## Samenvatting
 
-De codelijst 'secundairestructuurtypes' bevat eenduidige benamingen van ...
+De codelijst 'secundairestructuurtype' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud

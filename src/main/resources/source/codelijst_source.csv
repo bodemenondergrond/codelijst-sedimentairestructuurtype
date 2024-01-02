@@ -1,64 +1,64 @@
 uri,type,dc.id,collection,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
-colt:secundairestructuurtypes,skos:Collection,secundairestructuurtypes,,,Collectie van secundairestructuurtypes.,,,,,,,,,,,,,cs,secundairestructuurtype,,,,,,
-ct:18,skos:Concept,18,colt:secundairestructuurtypes,,aangespoelde plantenresten / plantenhaksel,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:31,skos:Concept,31,colt:secundairestructuurtypes,,bioklasten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:19,skos:Concept,19,colt:secundairestructuurtypes,,bioturbatie,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:44,skos:Concept,44,colt:secundairestructuurtypes,,birdseyes,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:25,skos:Concept,25,colt:secundairestructuurtypes,,boundstone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:49,skos:Concept,49,colt:secundairestructuurtypes,,breccieus,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:38,skos:Concept,38,colt:secundairestructuurtypes,,calcrete / caliche,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:11,skos:Concept,11,colt:secundairestructuurtypes,,compactiebreuken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:28,skos:Concept,28,colt:secundairestructuurtypes,,concretie,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:41,skos:Concept,41,colt:secundairestructuurtypes,,CU-gegradeerde gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:13,skos:Concept,13,colt:secundairestructuurtypes,,erosievlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:37,skos:Concept,37,colt:secundairestructuurtypes,,evaporiet pseudomorfen,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:46,skos:Concept,46,colt:secundairestructuurtypes,,fijn gebankt,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:55,skos:Concept,55,colt:secundairestructuurtypes,,floatstone,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:52,skos:Concept,52,colt:secundairestructuurtypes,,fossielrijk,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:40,skos:Concept,40,colt:secundairestructuurtypes,,FU-gegradeerde gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:3,skos:Concept,3,colt:secundairestructuurtypes,,geband,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:62,skos:Concept,62,colt:secundairestructuurtypes,,geopetale structuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:48,skos:Concept,48,colt:secundairestructuurtypes,,golvend laagvlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:24,skos:Concept,24,colt:secundairestructuurtypes,,grainstone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:27,skos:Concept,27,colt:secundairestructuurtypes,,hardground,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:36,skos:Concept,36,colt:secundairestructuurtypes,,intraklasten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:51,skos:Concept,51,colt:secundairestructuurtypes,,kalkklasten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:26,skos:Concept,26,colt:secundairestructuurtypes,,karst / oplossing,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:47,skos:Concept,47,colt:secundairestructuurtypes,,kleiklasten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:50,skos:Concept,50,colt:secundairestructuurtypes,,kleilenzen /-laagjes,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:54,skos:Concept,54,colt:secundairestructuurtypes,,kleirijk laagvlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:8,skos:Concept,8,colt:secundairestructuurtypes,,kriskras gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:17,skos:Concept,17,colt:secundairestructuurtypes,,laagvlak met koolbrokjes,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:2,skos:Concept,2,colt:secundairestructuurtypes,,laminaties,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:58,skos:Concept,58,colt:secundairestructuurtypes,,laminoid-fenestral structuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:4,skos:Concept,4,colt:secundairestructuurtypes,,lensvormige gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:60,skos:Concept,60,colt:secundairestructuurtypes,,lignietbanken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:59,skos:Concept,59,colt:secundairestructuurtypes,,limoniet- / ijzerbanken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:9,skos:Concept,9,colt:secundairestructuurtypes,,load cast,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:5,skos:Concept,5,colt:secundairestructuurtypes,,massief (compact),,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:15,skos:Concept,15,colt:secundairestructuurtypes,,micarijk vlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:21,skos:Concept,21,colt:secundairestructuurtypes,,mudstone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:14,skos:Concept,14,colt:secundairestructuurtypes,,niet-gecompacteerde fossielen,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:53,skos:Concept,53,colt:secundairestructuurtypes,,nodulair,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:0,skos:Concept,0,colt:secundairestructuurtypes,,onbepaald,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:34,skos:Concept,34,colt:secundairestructuurtypes,,oncolieten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:33,skos:Concept,33,colt:secundairestructuurtypes,,oölieten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:23,skos:Concept,23,colt:secundairestructuurtypes,,packstone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:32,skos:Concept,32,colt:secundairestructuurtypes,,pellets,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:57,skos:Concept,57,colt:secundairestructuurtypes,,pisoiden,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:35,skos:Concept,35,colt:secundairestructuurtypes,,pisolieten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:12,skos:Concept,12,colt:secundairestructuurtypes,,'regendruppels' (cf. Planolites),,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:56,skos:Concept,56,colt:secundairestructuurtypes,,rudstone,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:7,skos:Concept,7,colt:secundairestructuurtypes,,schuine gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:10,skos:Concept,10,colt:secundairestructuurtypes,,slumping,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:43,skos:Concept,43,colt:secundairestructuurtypes,,speleotheem,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:1,skos:Concept,1,colt:secundairestructuurtypes,,straticulaties,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:45,skos:Concept,45,colt:secundairestructuurtypes,,stroomribbels,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:42,skos:Concept,42,colt:secundairestructuurtypes,,turbidiet,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:30,skos:Concept,30,colt:secundairestructuurtypes,,uitdrogingsspleten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:61,skos:Concept,61,colt:secundairestructuurtypes,,veenbanken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:20,skos:Concept,20,colt:secundairestructuurtypes,,verspreide keien,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:29,skos:Concept,29,colt:secundairestructuurtypes,,versteend / aaneengekit materiaal,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:22,skos:Concept,22,colt:secundairestructuurtypes,,wackestone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:6,skos:Concept,6,colt:secundairestructuurtypes,,zandwolken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
-ct:16,skos:Concept,16,colt:secundairestructuurtypes,,zwart / kolig laagvlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+colt:secundairestructuurtype,skos:Collection,secundairestructuurtype,,,Collectie van secundairestructuurtype.,,,,,,,,,,,,,cs,secundairestructuurtype,,,,,,
+ct:18,skos:Concept,18,colt:secundairestructuurtype,,aangespoelde plantenresten / plantenhaksel,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:31,skos:Concept,31,colt:secundairestructuurtype,,bioklasten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:19,skos:Concept,19,colt:secundairestructuurtype,,bioturbatie,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:44,skos:Concept,44,colt:secundairestructuurtype,,birdseyes,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:25,skos:Concept,25,colt:secundairestructuurtype,,boundstone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:49,skos:Concept,49,colt:secundairestructuurtype,,breccieus,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:38,skos:Concept,38,colt:secundairestructuurtype,,calcrete / caliche,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:11,skos:Concept,11,colt:secundairestructuurtype,,compactiebreuken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:28,skos:Concept,28,colt:secundairestructuurtype,,concretie,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:41,skos:Concept,41,colt:secundairestructuurtype,,CU-gegradeerde gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:13,skos:Concept,13,colt:secundairestructuurtype,,erosievlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:37,skos:Concept,37,colt:secundairestructuurtype,,evaporiet pseudomorfen,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:46,skos:Concept,46,colt:secundairestructuurtype,,fijn gebankt,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:55,skos:Concept,55,colt:secundairestructuurtype,,floatstone,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:52,skos:Concept,52,colt:secundairestructuurtype,,fossielrijk,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:40,skos:Concept,40,colt:secundairestructuurtype,,FU-gegradeerde gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:3,skos:Concept,3,colt:secundairestructuurtype,,geband,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:62,skos:Concept,62,colt:secundairestructuurtype,,geopetale structuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:48,skos:Concept,48,colt:secundairestructuurtype,,golvend laagvlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:24,skos:Concept,24,colt:secundairestructuurtype,,grainstone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:27,skos:Concept,27,colt:secundairestructuurtype,,hardground,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:36,skos:Concept,36,colt:secundairestructuurtype,,intraklasten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:51,skos:Concept,51,colt:secundairestructuurtype,,kalkklasten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:26,skos:Concept,26,colt:secundairestructuurtype,,karst / oplossing,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:47,skos:Concept,47,colt:secundairestructuurtype,,kleiklasten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:50,skos:Concept,50,colt:secundairestructuurtype,,kleilenzen /-laagjes,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:54,skos:Concept,54,colt:secundairestructuurtype,,kleirijk laagvlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:8,skos:Concept,8,colt:secundairestructuurtype,,kriskras gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:17,skos:Concept,17,colt:secundairestructuurtype,,laagvlak met koolbrokjes,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:2,skos:Concept,2,colt:secundairestructuurtype,,laminaties,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:58,skos:Concept,58,colt:secundairestructuurtype,,laminoid-fenestral structuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:4,skos:Concept,4,colt:secundairestructuurtype,,lensvormige gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:60,skos:Concept,60,colt:secundairestructuurtype,,lignietbanken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:59,skos:Concept,59,colt:secundairestructuurtype,,limoniet- / ijzerbanken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:9,skos:Concept,9,colt:secundairestructuurtype,,load cast,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:5,skos:Concept,5,colt:secundairestructuurtype,,massief (compact),,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:15,skos:Concept,15,colt:secundairestructuurtype,,micarijk vlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:21,skos:Concept,21,colt:secundairestructuurtype,,mudstone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:14,skos:Concept,14,colt:secundairestructuurtype,,niet-gecompacteerde fossielen,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:53,skos:Concept,53,colt:secundairestructuurtype,,nodulair,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:0,skos:Concept,0,colt:secundairestructuurtype,,onbepaald,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:34,skos:Concept,34,colt:secundairestructuurtype,,oncolieten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:33,skos:Concept,33,colt:secundairestructuurtype,,oölieten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:23,skos:Concept,23,colt:secundairestructuurtype,,packstone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:32,skos:Concept,32,colt:secundairestructuurtype,,pellets,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:57,skos:Concept,57,colt:secundairestructuurtype,,pisoiden,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:35,skos:Concept,35,colt:secundairestructuurtype,,pisolieten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:12,skos:Concept,12,colt:secundairestructuurtype,,'regendruppels' (cf. Planolites),,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:56,skos:Concept,56,colt:secundairestructuurtype,,rudstone,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:7,skos:Concept,7,colt:secundairestructuurtype,,schuine gelaagdheid,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:10,skos:Concept,10,colt:secundairestructuurtype,,slumping,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:43,skos:Concept,43,colt:secundairestructuurtype,,speleotheem,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:1,skos:Concept,1,colt:secundairestructuurtype,,straticulaties,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:45,skos:Concept,45,colt:secundairestructuurtype,,stroomribbels,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:42,skos:Concept,42,colt:secundairestructuurtype,,turbidiet,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:30,skos:Concept,30,colt:secundairestructuurtype,,uitdrogingsspleten,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:61,skos:Concept,61,colt:secundairestructuurtype,,veenbanken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:20,skos:Concept,20,colt:secundairestructuurtype,,verspreide keien,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:29,skos:Concept,29,colt:secundairestructuurtype,,versteend / aaneengekit materiaal,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:22,skos:Concept,22,colt:secundairestructuurtype,,wackestone textuur,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:6,skos:Concept,6,colt:secundairestructuurtype,,zandwolken,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype
+ct:16,skos:Concept,16,colt:secundairestructuurtype,,zwart / kolig laagvlak,,,,,,,,,,,,,cs:secundairestructuurtype,,,,,,,cs:secundairestructuurtype

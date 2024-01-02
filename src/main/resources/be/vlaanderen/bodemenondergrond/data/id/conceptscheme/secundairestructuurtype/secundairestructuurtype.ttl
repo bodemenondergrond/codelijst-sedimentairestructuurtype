@@ -1,0 +1,392 @@
+@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairestructuurtype/> .
+@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
+@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairestructuurtype/> .
+@prefix dc:   <http://purl.org/dc/elements/1.1/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+ct:22   rdf:type           skos:Concept;
+        dc:identifier      "22";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "wackestone textuur"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:50   rdf:type           skos:Concept;
+        dc:identifier      "50";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "kleilenzen /-laagjes"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:28   rdf:type           skos:Concept;
+        dc:identifier      "28";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "concretie"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:56   rdf:type           skos:Concept;
+        dc:identifier      "56";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "rudstone"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:5    rdf:type           skos:Concept;
+        dc:identifier      "5";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "massief (compact)"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:15   rdf:type           skos:Concept;
+        dc:identifier      "15";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "micarijk vlak"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:43   rdf:type           skos:Concept;
+        dc:identifier      "43";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "speleotheem"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:30   rdf:type           skos:Concept;
+        dc:identifier      "30";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "uitdrogingsspleten"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:49   rdf:type           skos:Concept;
+        dc:identifier      "49";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "breccieus"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:36   rdf:type           skos:Concept;
+        dc:identifier      "36";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "intraklasten"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:23   rdf:type           skos:Concept;
+        dc:identifier      "23";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "packstone textuur"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:51   rdf:type           skos:Concept;
+        dc:identifier      "51";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "kalkklasten"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:0    rdf:type           skos:Concept;
+        dc:identifier      "0";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "onbepaald"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:10   rdf:type           skos:Concept;
+        dc:identifier      "10";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "slumping"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:29   rdf:type           skos:Concept;
+        dc:identifier      "29";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "versteend / aaneengekit materiaal"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:57   rdf:type           skos:Concept;
+        dc:identifier      "57";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "pisoiden"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:6    rdf:type           skos:Concept;
+        dc:identifier      "6";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "zandwolken"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:16   rdf:type           skos:Concept;
+        dc:identifier      "16";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "zwart / kolig laagvlak"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:44   rdf:type           skos:Concept;
+        dc:identifier      "44";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "birdseyes"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:31   rdf:type           skos:Concept;
+        dc:identifier      "31";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "bioklasten"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+cs:secundairestructuurtype
+        skos:hasTopConcept  ct:49 , ct:17 , ct:40 , ct:52 , ct:60 , ct:31 , ct:0 , ct:19 , ct:24 , ct:43 , ct:62 , ct:33 , ct:2 , ct:36 , ct:5 , ct:26 , ct:45 , ct:13 , ct:38 , ct:57 , ct:7 , ct:15 , ct:29 , ct:18 , ct:20 , ct:59 , ct:32 , ct:1 , ct:41 , ct:22 , ct:53 , ct:3 , ct:34 , ct:61 , ct:46 , ct:11 , ct:25 , ct:14 , ct:55 , ct:58 , ct:8 , ct:48 , ct:27 , ct:16 , ct:30 , ct:42 , ct:21 , ct:10 , ct:51 , ct:54 , ct:44 , ct:23 , ct:12 , ct:56 , ct:6 , ct:35 , ct:4 , ct:47 , ct:28 , ct:37 , ct:9 , ct:50 .
+
+colt:secundairestructuurtype
+        rdf:type              skos:Collection;
+        dc:identifier         "secundairestructuurtype";
+        skos:inScheme         <file:///tmp/RtmpzIzeTf/cs>;
+        skos:mappingRelation  <file:///tmp/RtmpzIzeTf/secundairestructuurtype>;
+        skos:member           ct:49 , ct:50 , ct:42 , ct:41 , ct:55 , ct:54 , ct:24 , ct:23 , ct:12 , ct:36 , ct:60 , ct:26 , ct:15 , ct:25 , ct:14 , ct:2 , ct:38 , ct:1 , ct:31 , ct:30 , ct:44 , ct:43 , ct:57 , ct:56 , ct:6 , ct:51 , ct:61 , ct:28 , ct:17 , ct:27 , ct:16 , ct:20 , ct:4 , ct:3 , ct:33 , ct:32 , ct:46 , ct:45 , ct:59 , ct:58 , ct:8 , ct:7 , ct:40 , ct:53 , ct:52 , ct:19 , ct:29 , ct:18 , ct:22 , ct:11 , ct:21 , ct:10 , ct:5 , ct:35 , ct:34 , ct:48 , ct:13 , ct:47 , ct:37 , ct:0 , ct:62 , ct:9;
+        skos:prefLabel        "Collectie van secundairestructuurtype."@nl .
+
+ct:37   rdf:type           skos:Concept;
+        dc:identifier      "37";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "evaporiet pseudomorfen"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:24   rdf:type           skos:Concept;
+        dc:identifier      "24";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "grainstone textuur"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:52   rdf:type           skos:Concept;
+        dc:identifier      "52";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "fossielrijk"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:1    rdf:type           skos:Concept;
+        dc:identifier      "1";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "straticulaties"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:11   rdf:type           skos:Concept;
+        dc:identifier      "11";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "compactiebreuken"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:58   rdf:type           skos:Concept;
+        dc:identifier      "58";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "laminoid-fenestral structuur"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:7    rdf:type           skos:Concept;
+        dc:identifier      "7";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "schuine gelaagdheid"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:17   rdf:type           skos:Concept;
+        dc:identifier      "17";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "laagvlak met koolbrokjes"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:45   rdf:type           skos:Concept;
+        dc:identifier      "45";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "stroomribbels"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:32   rdf:type           skos:Concept;
+        dc:identifier      "32";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "pellets"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:60   rdf:type           skos:Concept;
+        dc:identifier      "60";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "lignietbanken"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:38   rdf:type           skos:Concept;
+        dc:identifier      "38";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "calcrete / caliche"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:25   rdf:type           skos:Concept;
+        dc:identifier      "25";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "boundstone textuur"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:53   rdf:type           skos:Concept;
+        dc:identifier      "53";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "nodulair"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:2    rdf:type           skos:Concept;
+        dc:identifier      "2";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "laminaties"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:12   rdf:type           skos:Concept;
+        dc:identifier      "12";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "'regendruppels' (cf. Planolites)"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:40   rdf:type           skos:Concept;
+        dc:identifier      "40";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "FU-gegradeerde gelaagdheid"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:59   rdf:type           skos:Concept;
+        dc:identifier      "59";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "limoniet- / ijzerbanken"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:8    rdf:type           skos:Concept;
+        dc:identifier      "8";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "kriskras gelaagdheid"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:18   rdf:type           skos:Concept;
+        dc:identifier      "18";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "aangespoelde plantenresten / plantenhaksel"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:46   rdf:type           skos:Concept;
+        dc:identifier      "46";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "fijn gebankt"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:33   rdf:type           skos:Concept;
+        dc:identifier      "33";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "oölieten"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:61   rdf:type           skos:Concept;
+        dc:identifier      "61";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "veenbanken"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:20   rdf:type           skos:Concept;
+        dc:identifier      "20";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "verspreide keien"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:26   rdf:type           skos:Concept;
+        dc:identifier      "26";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "karst / oplossing"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:54   rdf:type           skos:Concept;
+        dc:identifier      "54";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "kleirijk laagvlak"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:3    rdf:type           skos:Concept;
+        dc:identifier      "3";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "geband"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:13   rdf:type           skos:Concept;
+        dc:identifier      "13";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "erosievlak"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:41   rdf:type           skos:Concept;
+        dc:identifier      "41";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "CU-gegradeerde gelaagdheid"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:9    rdf:type           skos:Concept;
+        dc:identifier      "9";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "load cast"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:19   rdf:type           skos:Concept;
+        dc:identifier      "19";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "bioturbatie"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:47   rdf:type           skos:Concept;
+        dc:identifier      "47";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "kleiklasten"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:34   rdf:type           skos:Concept;
+        dc:identifier      "34";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "oncolieten"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:62   rdf:type           skos:Concept;
+        dc:identifier      "62";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "geopetale structuur"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:21   rdf:type           skos:Concept;
+        dc:identifier      "21";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "mudstone textuur"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:27   rdf:type           skos:Concept;
+        dc:identifier      "27";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "hardground"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:55   rdf:type           skos:Concept;
+        dc:identifier      "55";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "floatstone"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:4    rdf:type           skos:Concept;
+        dc:identifier      "4";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "lensvormige gelaagdheid"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:14   rdf:type           skos:Concept;
+        dc:identifier      "14";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "niet-gecompacteerde fossielen"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:42   rdf:type           skos:Concept;
+        dc:identifier      "42";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "turbidiet"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:48   rdf:type           skos:Concept;
+        dc:identifier      "48";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "golvend laagvlak"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
+
+ct:35   rdf:type           skos:Concept;
+        dc:identifier      "35";
+        skos:inScheme      cs:secundairestructuurtype;
+        skos:prefLabel     "pisolieten"@nl;
+        skos:topConceptOf  cs:secundairestructuurtype .
