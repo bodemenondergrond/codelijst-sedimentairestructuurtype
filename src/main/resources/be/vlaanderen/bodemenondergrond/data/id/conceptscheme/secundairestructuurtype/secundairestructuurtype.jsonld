@@ -1,1339 +1,1034 @@
 {
-    "@graph": [
-        {
-            "@id": "ct:22",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "wackestone textuur"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "22",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "cs:secundairestructuurtype",
-            "skos:hasTopConcept": [
-                {
-                    "@id": "ct:49"
-                },
-                {
-                    "@id": "ct:17"
-                },
-                {
-                    "@id": "ct:40"
-                },
-                {
-                    "@id": "ct:52"
-                },
-                {
-                    "@id": "ct:60"
-                },
-                {
-                    "@id": "ct:31"
-                },
-                {
-                    "@id": "ct:0"
-                },
-                {
-                    "@id": "ct:19"
-                },
-                {
-                    "@id": "ct:24"
-                },
-                {
-                    "@id": "ct:43"
-                },
-                {
-                    "@id": "ct:62"
-                },
-                {
-                    "@id": "ct:33"
-                },
-                {
-                    "@id": "ct:2"
-                },
-                {
-                    "@id": "ct:36"
-                },
-                {
-                    "@id": "ct:5"
-                },
-                {
-                    "@id": "ct:26"
-                },
-                {
-                    "@id": "ct:45"
-                },
-                {
-                    "@id": "ct:13"
-                },
-                {
-                    "@id": "ct:57"
-                },
-                {
-                    "@id": "ct:7"
-                },
-                {
-                    "@id": "ct:38"
-                },
-                {
-                    "@id": "ct:15"
-                },
-                {
-                    "@id": "ct:29"
-                },
-                {
-                    "@id": "ct:18"
-                },
-                {
-                    "@id": "ct:20"
-                },
-                {
-                    "@id": "ct:59"
-                },
-                {
-                    "@id": "ct:32"
-                },
-                {
-                    "@id": "ct:1"
-                },
-                {
-                    "@id": "ct:41"
-                },
-                {
-                    "@id": "ct:22"
-                },
-                {
-                    "@id": "ct:34"
-                },
-                {
-                    "@id": "ct:3"
-                },
-                {
-                    "@id": "ct:53"
-                },
-                {
-                    "@id": "ct:61"
-                },
-                {
-                    "@id": "ct:46"
-                },
-                {
-                    "@id": "ct:11"
-                },
-                {
-                    "@id": "ct:25"
-                },
-                {
-                    "@id": "ct:14"
-                },
-                {
-                    "@id": "ct:55"
-                },
-                {
-                    "@id": "ct:58"
-                },
-                {
-                    "@id": "ct:8"
-                },
-                {
-                    "@id": "ct:48"
-                },
-                {
-                    "@id": "ct:27"
-                },
-                {
-                    "@id": "ct:16"
-                },
-                {
-                    "@id": "ct:30"
-                },
-                {
-                    "@id": "ct:42"
-                },
-                {
-                    "@id": "ct:21"
-                },
-                {
-                    "@id": "ct:10"
-                },
-                {
-                    "@id": "ct:51"
-                },
-                {
-                    "@id": "ct:54"
-                },
-                {
-                    "@id": "ct:44"
-                },
-                {
-                    "@id": "ct:23"
-                },
-                {
-                    "@id": "ct:12"
-                },
-                {
-                    "@id": "ct:56"
-                },
-                {
-                    "@id": "ct:6"
-                },
-                {
-                    "@id": "ct:35"
-                },
-                {
-                    "@id": "ct:4"
-                },
-                {
-                    "@id": "ct:47"
-                },
-                {
-                    "@id": "ct:28"
-                },
-                {
-                    "@id": "ct:37"
-                },
-                {
-                    "@id": "ct:9"
-                },
-                {
-                    "@id": "ct:50"
-                }
-            ]
-        },
-        {
-            "@id": "ct:50",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kleilenzen /-laagjes"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "50",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:28",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "concretie"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "28",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:56",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "rudstone"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "56",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:5",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "massief (compact)"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "5",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:15",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "micarijk vlak"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "15",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:43",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "speleotheem"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "43",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:30",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "uitdrogingsspleten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "30",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:49",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "breccieus"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "49",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:36",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "intraklasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "36",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:23",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "packstone textuur"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "23",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:51",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kalkklasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "51",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:0",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "onbepaald"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "0",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:10",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "slumping"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "10",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:29",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "versteend / aaneengekit materiaal"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "29",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:57",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "pisoiden"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "57",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:6",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "zandwolken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "6",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:16",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "zwart / kolig laagvlak"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "16",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:44",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "birdseyes"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "44",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:31",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "bioklasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "31",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:17",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "laagvlak met koolbrokjes"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "17",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:40",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "FU-gegradeerde gelaagdheid"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "40",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:52",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "fossielrijk"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "52",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:60",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "lignietbanken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "60",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:19",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "bioturbatie"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "19",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:24",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "grainstone textuur"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "24",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:62",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "geopetale structuur"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "62",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:33",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "oölieten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "33",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:2",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "laminaties"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "2",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:26",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "karst / oplossing"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "26",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:45",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "stroomribbels"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "45",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:13",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "erosievlak"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "13",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:7",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "schuine gelaagdheid"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "7",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:38",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "calcrete / caliche"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "38",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:18",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "aangespoelde plantenresten / plantenhaksel"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "18",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:20",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "verspreide keien"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "20",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:59",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "limoniet- / ijzerbanken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "59",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:32",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "pellets"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "32",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:1",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "straticulaties"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "1",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:41",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "CU-gegradeerde gelaagdheid"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "41",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:34",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "oncolieten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "34",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:3",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "geband"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "3",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:53",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "nodulair"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "53",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:61",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "veenbanken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "61",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:46",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "fijn gebankt"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "46",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:11",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "compactiebreuken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "11",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:25",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "boundstone textuur"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "25",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:14",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "niet-gecompacteerde fossielen"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "14",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:55",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "floatstone"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "55",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:58",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "laminoid-fenestral structuur"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "58",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:8",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kriskras gelaagdheid"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "8",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:48",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "golvend laagvlak"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "48",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:27",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "hardground"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "27",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:42",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "turbidiet"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "42",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:21",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mudstone textuur"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "21",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:54",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kleirijk laagvlak"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "54",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:12",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "'regendruppels' (cf. Planolites)"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "12",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:35",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "pisolieten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "35",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:4",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "lensvormige gelaagdheid"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "4",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:47",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kleiklasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "47",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:37",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "evaporiet pseudomorfen"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "37",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:9",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "load cast"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairestructuurtype"
-            },
-            "dc:identifier": "9",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "colt:secundairestructuurtype",
-            "skos:member": [
-                {
-                    "@id": "ct:49"
-                },
-                {
-                    "@id": "ct:50"
-                },
-                {
-                    "@id": "ct:42"
-                },
-                {
-                    "@id": "ct:41"
-                },
-                {
-                    "@id": "ct:55"
-                },
-                {
-                    "@id": "ct:54"
-                },
-                {
-                    "@id": "ct:24"
-                },
-                {
-                    "@id": "ct:23"
-                },
-                {
-                    "@id": "ct:12"
-                },
-                {
-                    "@id": "ct:36"
-                },
-                {
-                    "@id": "ct:60"
-                },
-                {
-                    "@id": "ct:26"
-                },
-                {
-                    "@id": "ct:15"
-                },
-                {
-                    "@id": "ct:25"
-                },
-                {
-                    "@id": "ct:14"
-                },
-                {
-                    "@id": "ct:2"
-                },
-                {
-                    "@id": "ct:1"
-                },
-                {
-                    "@id": "ct:38"
-                },
-                {
-                    "@id": "ct:31"
-                },
-                {
-                    "@id": "ct:30"
-                },
-                {
-                    "@id": "ct:44"
-                },
-                {
-                    "@id": "ct:43"
-                },
-                {
-                    "@id": "ct:57"
-                },
-                {
-                    "@id": "ct:56"
-                },
-                {
-                    "@id": "ct:6"
-                },
-                {
-                    "@id": "ct:51"
-                },
-                {
-                    "@id": "ct:61"
-                },
-                {
-                    "@id": "ct:28"
-                },
-                {
-                    "@id": "ct:17"
-                },
-                {
-                    "@id": "ct:27"
-                },
-                {
-                    "@id": "ct:16"
-                },
-                {
-                    "@id": "ct:20"
-                },
-                {
-                    "@id": "ct:4"
-                },
-                {
-                    "@id": "ct:3"
-                },
-                {
-                    "@id": "ct:33"
-                },
-                {
-                    "@id": "ct:32"
-                },
-                {
-                    "@id": "ct:46"
-                },
-                {
-                    "@id": "ct:45"
-                },
-                {
-                    "@id": "ct:59"
-                },
-                {
-                    "@id": "ct:58"
-                },
-                {
-                    "@id": "ct:8"
-                },
-                {
-                    "@id": "ct:7"
-                },
-                {
-                    "@id": "ct:40"
-                },
-                {
-                    "@id": "ct:53"
-                },
-                {
-                    "@id": "ct:52"
-                },
-                {
-                    "@id": "ct:19"
-                },
-                {
-                    "@id": "ct:29"
-                },
-                {
-                    "@id": "ct:18"
-                },
-                {
-                    "@id": "ct:22"
-                },
-                {
-                    "@id": "ct:11"
-                },
-                {
-                    "@id": "ct:21"
-                },
-                {
-                    "@id": "ct:10"
-                },
-                {
-                    "@id": "ct:5"
-                },
-                {
-                    "@id": "ct:35"
-                },
-                {
-                    "@id": "ct:34"
-                },
-                {
-                    "@id": "ct:48"
-                },
-                {
-                    "@id": "ct:13"
-                },
-                {
-                    "@id": "ct:47"
-                },
-                {
-                    "@id": "ct:37"
-                },
-                {
-                    "@id": "ct:0"
-                },
-                {
-                    "@id": "ct:62"
-                },
-                {
-                    "@id": "ct:9"
-                }
-            ],
-            "@type": "skos:Collection",
-            "dc:identifier": "secundairestructuurtype",
-            "skos:inScheme": {
-                "@id": "file:///tmp/RtmpzIzeTf/cs"
-            },
-            "skos:mappingRelation": {
-                "@id": "file:///tmp/RtmpzIzeTf/secundairestructuurtype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Collectie van secundairestructuurtype."
-            }
-        }
-    ],
     "@context": {
-        "cs": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
-        "ct": "https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairestructuurtype/",
-        "dct": "http://purl.org/dc/terms/",
-        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-        "xsd": "http://www.w3.org/2001/XMLSchema#",
-        "skos": "http://www.w3.org/2004/02/skos/core#",
-        "colt": "https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairestructuurtype/",
+        "sparql-service-description-graph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#graph",
+            "@type": "@id"
+        },
+        "defaultGraph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#defaultGraph",
+            "@type": "@id"
+        },
+        "collections": {
+            "@type": "@id",
+            "@reverse": "member"
+        },
+        "id": "@id",
+        "type": {
+            "@id": "@type",
+            "@type": "@id"
+        },
+        "source": {
+            "@id": "http://purl.org/dc/terms/source",
+            "@type": "@id"
+        },
+        "sparql-service-description-name": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#name",
+            "@type": "@id"
+        },
+        "identifier": {
+            "@id": "http://purl.org/dc/terms/identifier",
+            "@type": "@id"
+        },
+        "hasVersion": {
+            "@id": "http://purl.org/dc/terms/hasVersion",
+            "@type": "@id"
+        },
+        "isVersionOf": {
+            "@id": "http://purl.org/dc/terms/isVersionOf",
+            "@type": "@id"
+        },
+        "label": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#label",
+            "@language": "nl"
+        },
+        "distribution": {
+            "@id": "http://www.w3.org/ns/dcat#distribution",
+            "@type": "@id"
+        },
+        "alternative": {
+            "@id": "http://purl.org/dc/terms/alternative",
+            "@language": "nl"
+        },
+        "description": {
+            "@id": "http://purl.org/dc/terms/description",
+            "@language": "nl"
+        },
+        "spatial": {
+            "@id": "http://purl.org/dc/terms/spatial",
+            "@type": "@id"
+        },
+        "page": {
+            "@id": "http://xmlns.com/foaf/0.1/page",
+            "@type": "@id"
+        },
+        "theme": {
+            "@id": "http://www.w3.org/ns/dcat#theme",
+            "@type": "@id"
+        },
+        "title": {
+            "@id": "http://purl.org/dc/terms/title",
+            "@language": "nl"
+        },
+        "landingPage": {
+            "@id": "http://www.w3.org/ns/dcat#landingPage",
+            "@type": "@id"
+        },
+        "rightsHolder": {
+            "@id": "http://purl.org/dc/terms/rightsHolder",
+            "@type": "@id"
+        },
+        "language": "http://publications.europa.eu/resource/authority/language/",
+        "accrualPeriodicity": {
+            "@id": "http://purl.org/dc/terms/accrualPeriodicity",
+            "@type": "@id"
+        },
+        "publisher": {
+            "@id": "http://purl.org/dc/terms/publisher",
+            "@type": "@id"
+        },
+        "dct.language": {
+            "@id": "http://purl.org/dc/terms/language",
+            "@type": "@id"
+        },
+        "contactPoint": {
+            "@id": "http://www.w3.org/ns/dcat#contactPoint",
+            "@type": "@id"
+        },
+        "temporal": {
+            "@id": "http://purl.org/dc/terms/temporal",
+            "@type": "@id"
+        },
+        "issued": {
+            "@id": "http://purl.org/dc/terms/issued",
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "accessRights": {
+            "@id": "http://purl.org/dc/terms/accessRights",
+            "@type": "@id"
+        },
+        "license": {
+            "@id": "http://purl.org/dc/terms/license",
+            "@type": "@id"
+        },
+        "accessURL": {
+            "@id": "http://www.w3.org/ns/dcat#accessURL",
+            "@type": "@id"
+        },
+        "compressFormat": {
+            "@id": "http://www.w3.org/ns/dcat#compressFormat",
+            "@type": "@id"
+        },
+        "downloadURL": {
+            "@id": "http://www.w3.org/ns/dcat#downloadURL",
+            "@type": "@id"
+        },
+        "mediaType": {
+            "@id": "http://www.w3.org/ns/dcat#mediaType",
+            "@type": "@id"
+        },
+        "format": {
+            "@id": "http://purl.org/dc/terms/format",
+            "@type": "@id"
+        },
+        "versionInfo": {
+            "@id": "http://spdx.org/rdf/terms#versionInfo"
+        },
+        "packageName": {
+            "@id": "http://spdx.org/rdf/terms#packageName"
+        },
+        "packageFileName": {
+            "@id": "http://spdx.org/rdf/terms#packageFileName"
+        },
+        "downloadLocation": {
+            "@id": "http://spdx.org/rdf/terms#downloadLocation",
+            "@type": "@id"
+        },
+        "relationshipType_packageOf": {
+            "@id": "http://spdx.org/rdf/terms#relationshipType_packageOf",
+            "@type": "@id"
+        },
+        "availableGraphs": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#availableGraphs",
+            "@type": "@id"
+        },
+        "resultFormat": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#resultFormat",
+            "@type": "@id"
+        },
+        "feature": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#feature",
+            "@type": "@id"
+        },
+        "supportedLanguage": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#supportedLanguage",
+            "@type": "@id"
+        },
+        "url": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#url",
+            "@type": "@id"
+        },
+        "comment": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#comment",
+            "@language": "nl"
+        },
+        "defaultDataset": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#defaultDataset",
+            "@type": "@id"
+        },
+        "endpoint": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#endpoint",
+            "@type": "@id"
+        },
+        "namedGraph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#namedGraph",
+            "@type": "@id"
+        },
+        "homepage": {
+            "@id": "http://xmlns.com/foaf/0.1/homepage",
+            "@type": "@id"
+        },
+        "service": {
+            "@id": "http://www.w3.org/ns/dcat#service",
+            "@type": "@id"
+        },
+        "rootResource": {
+            "@id": "http://rdfs.org/ns/void#rootResource",
+            "@type": "@id"
+        },
+        "dataset": {
+            "@id": "http://www.w3.org/ns/dcat#dataset",
+            "@type": "@id"
+        },
+        "servesDataset": {
+            "@id": "http://www.w3.org/ns/dcat#servesDataset",
+            "@type": "@id"
+        },
+        "endpointDescription": {
+            "@id": "http://www.w3.org/ns/dcat#endpointDescription",
+            "@type": "@id"
+        },
+        "endpointURL": {
+            "@id": "http://www.w3.org/ns/dcat#endpointURL",
+            "@type": "@id"
+        },
+        "conformsTo": {
+            "@id": "http://purl.org/dc/terms/conformsTo",
+            "@type": "@id"
+        },
+        "dc.identifier": {
+            "@id": "http://purl.org/dc/elements/1.1/identifier"
+        },
+        "dc.language": {
+            "@id": "http://purl.org/dc/elements/1.1/language",
+            "@language": "nl"
+        },
+        "dc.source": {
+            "@id": "http://purl.org/dc/elements/1.1/source"
+        },
+        "version": {
+            "@id": "http://www.w3.org/2002/07/owl#versionInfo"
+        },
+        "name": {
+            "@id": "http://spdx.org/rdf/terms#name"
+        },
+        "seeAlso": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+            "@type": "@id"
+        },
+        "inScheme": {
+            "@id": "http://www.w3.org/2004/02/skos/core#inScheme",
+            "@type": "@id"
+        },
+        "topConceptOf": {
+            "@id": "http://www.w3.org/2004/02/skos/core#topConceptOf",
+            "@type": "@id"
+        },
+        "hasTopConcept": {
+            "@id": "http://www.w3.org/2004/02/skos/core#hasTopConcept",
+            "@type": "@id"
+        },
+        "uri": {
+            "@id": "@id",
+            "@type": "@id"
+        },
+        "prefLabel": {
+            "@id": "http://www.w3.org/2004/02/skos/core#prefLabel",
+            "@language": "nl"
+        },
+        "notation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#notation"
+        },
+        "altLabel": {
+            "@id": "http://www.w3.org/2004/02/skos/core#altLabel",
+            "@language": "nl"
+        },
+        "note": {
+            "@id": "http://www.w3.org/2004/02/skos/core#note",
+            "@language": "nl"
+        },
+        "definition": {
+            "@id": "http://www.w3.org/2004/02/skos/core#definition",
+            "@language": "nl"
+        },
+        "member": {
+            "@id": "http://www.w3.org/2004/02/skos/core#member",
+            "@type": "@id"
+        },
+        "casNumber": {
+            "@id": "http://dbpedia.org/ontology/casNumber"
+        },
+        "references": {
+            "@id": "http://purl.org/dc/terms/references",
+            "@type": "@id"
+        },
+        "isReferencedBy": {
+            "@id": "http://purl.org/dc/terms/isReferencedBy",
+            "@type": "@id"
+        },
+        "relation": {
+            "@id": "http://purl.org/dc/terms/relation",
+            "@type": "@id"
+        },
+        "graph": {
+            "@id": "@graph"
+        },
+        "broaderTransitive": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broaderTransitive",
+            "@type": "@id"
+        },
+        "broadMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broadMatch",
+            "@type": "@id"
+        },
+        "closeMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#closeMatch",
+            "@type": "@id"
+        },
+        "exactMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#exactMatch",
+            "@type": "@id"
+        },
+        "mappingRelation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#mappingRelation",
+            "@type": "@id"
+        },
+        "broader": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broader",
+            "@type": "@id"
+        },
+        "narrower": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrower",
+            "@type": "@id"
+        },
+        "narrowerTransitive": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrowerTransitive",
+            "@type": "@id"
+        },
+        "narrowMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrowMatch",
+            "@type": "@id"
+        },
+        "semanticRelation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#semanticRelation",
+            "@type": "@id"
+        },
+        "belongsTo": {
+            "@id": "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo",
+            "@type": "@id"
+        },
+        "concept": "https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairestructuurtype/",
+        "collectie": "https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairestructuurtype/",
+        "access_right": "http://publications.europa.eu/resource/authority/access-right/",
+        "adms": "http://www.w3.org/ns/adms#",
+        "assettype": "http://purl.org/adms/assettype/",
+        "conceptscheme": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "country": "http://publications.europa.eu/resource/authority/country/",
+        "datasets": "https://datasets.omgeving.vlaanderen.be/",
+        "datatheme_be": "http://vocab.belgif.be/auth/datatheme/",
+        "datatheme_eu": "http://publications.europa.eu/resource/authority/data-theme/",
+        "dbo": "http://dbpedia.org/ontology/",
+        "dcat": "http://www.w3.org/ns/dcat#",
         "dc": "http://purl.org/dc/elements/1.1/",
-        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#"
-    }
+        "dcterms": "http://purl.org/dc/terms/",
+        "dct": "http://purl.org/dc/terms/",
+        "eurovoc": "http://eurovoc.europa.eu/",
+        "file_type": "http://publications.europa.eu/resource/authority/file-type/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "formats": "http://www.w3.org/ns/formats/",
+        "frequency": "http://publications.europa.eu/resource/authority/frequency/",
+        "gemet": "http://www.eionet.europa.eu/gemet/concept/",
+        "licence": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/",
+        "metadata": "https://data.omgeving.vlaanderen.be/ns/metadata#",
+        "omg_catalog": "https://data.bodemenondergrond.vlaanderen.be/id/catalog/",
+        "omg_catalog_doc": "https://data.bodemenondergrond.vlaanderen.be/doc/catalog/",
+        "omg_collection": "https://data.bodemenondergrond.vlaanderen.be/id/collection/",
+        "omg_dataservice": "https://data.bodemenondergrond.vlaanderen.be/id/dataservice/",
+        "omg_dataset_doc": "https://data.bodemenondergrond.vlaanderen.be/doc/dataset/",
+        "omg_dataset": "https://data.bodemenondergrond.vlaanderen.be/id/dataset/",
+        "omg_distribution_doc": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/",
+        "omg_distribution": "https://data.bodemenondergrond.vlaanderen.be/id/distribution/",
+        "omg_graphcollection": "https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/",
+        "omg_graph": "https://data.bodemenondergrond.vlaanderen.be/id/graph/",
+        "omg_id": "https://data.bodemenondergrond.vlaanderen.be/id/",
+        "omg_named_graph": "https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/",
+        "omg_ontology": "https://data.bodemenondergrond.vlaanderen.be/id/ontology/",
+        "omg_package": "https://data.bodemenondergrond.vlaanderen.be/id/package/",
+        "omg_periodoftime": "https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/",
+        "omg_service": "https://data.bodemenondergrond.vlaanderen.be/id/service/",
+        "omg_vcard": "https://data.bodemenondergrond.vlaanderen.be/id/vcard/",
+        "ovo": "http://data.vlaanderen.be/id/organisatie/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "repo": "https://repo.omgeving.vlaanderen.be/artifactory/release/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "sd": "http://www.w3.org/ns/sparql-service-description#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "spdx": "http://spdx.org/rdf/terms#",
+        "ssd": "http://www.w3.org/ns/sparql-service-description#",
+        "ts": "http://www.w3.org/ns/formats/",
+        "vcard": "http://www.w3.org/2006/vcard/ns#",
+        "void": "http://rdfs.org/ns/void#",
+        "wise": "http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/",
+        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "@base": "https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairestructuurtype/"
+    },
+    "graph": [
+        {
+            "id": "collectie:secundairestructuurtype",
+            "type": "skos:Collection",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "member": [
+                "concept:0",
+                "concept:10",
+                "concept:11",
+                "concept:12",
+                "concept:13",
+                "concept:14",
+                "concept:15",
+                "concept:16",
+                "concept:17",
+                "concept:18",
+                "concept:19",
+                "concept:1",
+                "concept:20",
+                "concept:21",
+                "concept:22",
+                "concept:23",
+                "concept:24",
+                "concept:25",
+                "concept:26",
+                "concept:27",
+                "concept:28",
+                "concept:29",
+                "concept:2",
+                "concept:30",
+                "concept:31",
+                "concept:32",
+                "concept:33",
+                "concept:34",
+                "concept:35",
+                "concept:36",
+                "concept:37",
+                "concept:38",
+                "concept:3",
+                "concept:40",
+                "concept:41",
+                "concept:42",
+                "concept:43",
+                "concept:44",
+                "concept:45",
+                "concept:46",
+                "concept:47",
+                "concept:48",
+                "concept:49",
+                "concept:4",
+                "concept:50",
+                "concept:51",
+                "concept:52",
+                "concept:53",
+                "concept:54",
+                "concept:55",
+                "concept:56",
+                "concept:57",
+                "concept:58",
+                "concept:59",
+                "concept:5",
+                "concept:60",
+                "concept:61",
+                "concept:62",
+                "concept:6",
+                "concept:7",
+                "concept:8",
+                "concept:9"
+            ],
+            "prefLabel": "Collectie van secundairestructuurtype."
+        },
+        {
+            "id": "concept:0",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "0",
+            "prefLabel": "onbepaald",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:1",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "1",
+            "prefLabel": "straticulaties",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:10",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "10",
+            "prefLabel": "slumping",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:11",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "11",
+            "prefLabel": "compactiebreuken",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:12",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "12",
+            "prefLabel": "'regendruppels' (cf. Planolites)",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:13",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "13",
+            "prefLabel": "erosievlak",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:14",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "14",
+            "prefLabel": "niet-gecompacteerde fossielen",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:15",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "15",
+            "prefLabel": "micarijk vlak",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:16",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "16",
+            "prefLabel": "zwart / kolig laagvlak",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:17",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "17",
+            "prefLabel": "laagvlak met koolbrokjes",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:18",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "18",
+            "prefLabel": "aangespoelde plantenresten / plantenhaksel",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:19",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "19",
+            "prefLabel": "bioturbatie",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:2",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "2",
+            "prefLabel": "laminaties",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:20",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "20",
+            "prefLabel": "verspreide keien",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:21",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "21",
+            "prefLabel": "mudstone textuur",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:22",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "22",
+            "prefLabel": "wackestone textuur",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:23",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "23",
+            "prefLabel": "packstone textuur",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:24",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "24",
+            "prefLabel": "grainstone textuur",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:25",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "25",
+            "prefLabel": "boundstone textuur",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:26",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "26",
+            "prefLabel": "karst / oplossing",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:27",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "27",
+            "prefLabel": "hardground",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:28",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "28",
+            "prefLabel": "concretie",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:29",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "29",
+            "prefLabel": "versteend / aaneengekit materiaal",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:3",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "3",
+            "prefLabel": "geband",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:30",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "30",
+            "prefLabel": "uitdrogingsspleten",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:31",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "31",
+            "prefLabel": "bioklasten",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:32",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "32",
+            "prefLabel": "pellets",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:33",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "33",
+            "prefLabel": "oölieten",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:34",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "34",
+            "prefLabel": "oncolieten",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:35",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "35",
+            "prefLabel": "pisolieten",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:36",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "36",
+            "prefLabel": "intraklasten",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:37",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "37",
+            "prefLabel": "evaporiet pseudomorfen",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:38",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "38",
+            "prefLabel": "calcrete / caliche",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:4",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "4",
+            "prefLabel": "lensvormige gelaagdheid",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:40",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "40",
+            "prefLabel": "FU-gegradeerde gelaagdheid",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:41",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "41",
+            "prefLabel": "CU-gegradeerde gelaagdheid",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:42",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "42",
+            "prefLabel": "turbidiet",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:43",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "43",
+            "prefLabel": "speleotheem",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:44",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "44",
+            "prefLabel": "birdseyes",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:45",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "45",
+            "prefLabel": "stroomribbels",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:46",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "46",
+            "prefLabel": "fijn gebankt",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:47",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "47",
+            "prefLabel": "kleiklasten",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:48",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "48",
+            "prefLabel": "golvend laagvlak",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:49",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "49",
+            "prefLabel": "breccieus",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:5",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "5",
+            "prefLabel": "massief (compact)",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:50",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "50",
+            "prefLabel": "kleilenzen /-laagjes",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:51",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "51",
+            "prefLabel": "kalkklasten",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:52",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "52",
+            "prefLabel": "fossielrijk",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:53",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "53",
+            "prefLabel": "nodulair",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:54",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "54",
+            "prefLabel": "kleirijk laagvlak",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:55",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "55",
+            "prefLabel": "floatstone",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:56",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "56",
+            "prefLabel": "rudstone",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:57",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "57",
+            "prefLabel": "pisoiden",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:58",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "58",
+            "prefLabel": "laminoid-fenestral structuur",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:59",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "59",
+            "prefLabel": "limoniet- / ijzerbanken",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:6",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "6",
+            "prefLabel": "zandwolken",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:60",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "60",
+            "prefLabel": "lignietbanken",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:61",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "61",
+            "prefLabel": "veenbanken",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:62",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "62",
+            "prefLabel": "geopetale structuur",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:7",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "7",
+            "prefLabel": "schuine gelaagdheid",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:8",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "8",
+            "prefLabel": "kriskras gelaagdheid",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "concept:9",
+            "type": "skos:Concept",
+            "inScheme": "conceptscheme:secundairestructuurtype",
+            "notation": "9",
+            "prefLabel": "load cast",
+            "topConceptOf": "conceptscheme:secundairestructuurtype"
+        },
+        {
+            "id": "conceptscheme:secundairestructuurtype",
+            "type": "skos:ConceptScheme",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.secundairestructuurtype",
+            "hasTopConcept": [
+                "concept:0",
+                "concept:10",
+                "concept:11",
+                "concept:12",
+                "concept:13",
+                "concept:14",
+                "concept:15",
+                "concept:16",
+                "concept:17",
+                "concept:18",
+                "concept:19",
+                "concept:1",
+                "concept:20",
+                "concept:21",
+                "concept:22",
+                "concept:23",
+                "concept:24",
+                "concept:25",
+                "concept:26",
+                "concept:27",
+                "concept:28",
+                "concept:29",
+                "concept:2",
+                "concept:30",
+                "concept:31",
+                "concept:32",
+                "concept:33",
+                "concept:34",
+                "concept:35",
+                "concept:36",
+                "concept:37",
+                "concept:38",
+                "concept:3",
+                "concept:40",
+                "concept:41",
+                "concept:42",
+                "concept:43",
+                "concept:44",
+                "concept:45",
+                "concept:46",
+                "concept:47",
+                "concept:48",
+                "concept:49",
+                "concept:4",
+                "concept:50",
+                "concept:51",
+                "concept:52",
+                "concept:53",
+                "concept:54",
+                "concept:55",
+                "concept:56",
+                "concept:57",
+                "concept:58",
+                "concept:59",
+                "concept:5",
+                "concept:60",
+                "concept:61",
+                "concept:62",
+                "concept:6",
+                "concept:7",
+                "concept:8",
+                "concept:9"
+            ],
+            "prefLabel": "Lijst van types secundaire structuren"
+        }
+    ]
 }
