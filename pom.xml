@@ -8,7 +8,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>be.vlaanderen.bodemenondergrond.data.id.graph</groupId> <!-- e.g. be.vlaanderen.bodemenondergrond.data.id.graph -->
-  <artifactId>codelijst-secundairestructuurtype</artifactId> <!-- e.g. codelijst-testrepo -->
+  <artifactId>codelijst-sedimentairestructuurtype</artifactId> <!-- e.g. codelijst-testrepo -->
   <version>0.1.0-SNAPSHOT</version> <!-- 0.1.0-SNAPSHOT -->
   <packaging>jar</packaging>
 
@@ -16,9 +16,9 @@
 
 
   <scm>
-        <connection>scm:git:https://github.com/bodemenondergrond/codelijst-secundairestructuurtype.git</connection>
-        <developerConnection>scm:git:https://github.com/bodemenondergrond/codelijst-secundairestructuurtype.git</developerConnection>
-        <url>https://github.com/bodemenondergrond/codelijst-secundairestructuurtype.git</url>
+        <connection>scm:git:https://github.com/bodemenondergrond/codelijst-sedimentairestructuurtype.git</connection>
+        <developerConnection>scm:git:https://github.com/bodemenondergrond/codelijst-sedimentairestructuurtype.git</developerConnection>
+        <url>https://github.com/bodemenondergrond/codelijst-sedimentairestructuurtype.git</url>
     <tag>HEAD</tag>
   </scm>
   <build>
