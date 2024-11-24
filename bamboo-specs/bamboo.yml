@@ -3,7 +3,7 @@ version: 2
 plan:
   project-key: DOV
   key: DOVSECUNDAIRESTRUCTUURTYPE
-  name: codelijst-secundairestructuurtype
+  name: codelijst-sedimentairestructuurtype
 
 triggers:
   - polling: 130
@@ -71,7 +71,7 @@ Release:
 ---
 version: 2
 plan:
-  key: DOV-DOVSECUNDAIRESTRUCTUURTYPE
+  key: DOV-DOVSEDIMENTAIRESTRUCTUURTYPE
 
 plan-permissions:
   - groups:
