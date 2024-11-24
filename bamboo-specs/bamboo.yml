@@ -2,7 +2,7 @@
 version: 2
 plan:
   project-key: DOV
-  key: DOVSECUNDAIRESTRUCTUURTYPE
+  key: DOVSEDIMENTAIRESTRUCTUURTYPE
   name: codelijst-sedimentairestructuurtype
 
 triggers:
