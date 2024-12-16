@@ -437,4 +437,4 @@
 <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/sedimentairestructuurtype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/sedimentairestructuurtype/7> .
 <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/sedimentairestructuurtype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/sedimentairestructuurtype/8> .
 <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/sedimentairestructuurtype> <http://www.w3.org/2004/02/skos/core#hasTopConcept> <https://data.bodemenondergrond.vlaanderen.be/id/concept/sedimentairestructuurtype/9> .
-<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/sedimentairestructuurtype> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lijst van types secundaire structuren"@nl .
+<https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/sedimentairestructuurtype> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lijst van types sedimentaire structuren"@nl .

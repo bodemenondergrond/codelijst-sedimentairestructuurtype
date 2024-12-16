@@ -1,5 +1,5 @@
 uri,dc.identifier,collections,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
-conceptscheme:sedimentairestructuurtype,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.sedimentairestructuurtype,,,Lijst van types secundaire structuren,,,,,,,,,,,,,,,,,,,,
+conceptscheme:sedimentairestructuurtype,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.sedimentairestructuurtype,,,Lijst van types sedimentaire structuren,,,,,,,,,,,,,,,,,,,,
 collectie:sedimentairestructuurtype,,,,Collectie van sedimentairestructuurtype.,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,
 18,,collectie:sedimentairestructuurtype,18,aangespoelde plantenresten / plantenhaksel,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
 31,,collectie:sedimentairestructuurtype,31,bioklasten,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
