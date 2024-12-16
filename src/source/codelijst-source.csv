@@ -1,65 +1,65 @@
 uri,dc.identifier,collections,notation,prefLabel,altLabel,broader,broaderTransitive,broadMatch,changeNote,closeMatch,definition,editorialNote,exactMatch,example,hiddenLabel,historyNote,inScheme,mappingRelation,note,related,relatedMatch,scopeNote,semanticRelation,topConceptOf
-conceptscheme:secundairestructuurtype,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.secundairestructuurtype,,,Lijst van types secundaire structuren,,,,,,,,,,,,,,,,,,,,
-collectie:secundairestructuurtype,,,,Collectie van secundairestructuurtype.,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,
-18,,collectie:secundairestructuurtype,18,aangespoelde plantenresten / plantenhaksel,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-31,,collectie:secundairestructuurtype,31,bioklasten,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-19,,collectie:secundairestructuurtype,19,bioturbatie,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-44,,collectie:secundairestructuurtype,44,birdseyes,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-25,,collectie:secundairestructuurtype,25,boundstone textuur,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-49,,collectie:secundairestructuurtype,49,breccieus,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-38,,collectie:secundairestructuurtype,38,calcrete / caliche,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-11,,collectie:secundairestructuurtype,11,compactiebreuken,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-28,,collectie:secundairestructuurtype,28,concretie,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-41,,collectie:secundairestructuurtype,41,CU-gegradeerde gelaagdheid,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-13,,collectie:secundairestructuurtype,13,erosievlak,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-37,,collectie:secundairestructuurtype,37,evaporiet pseudomorfen,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-46,,collectie:secundairestructuurtype,46,fijn gebankt,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-55,,collectie:secundairestructuurtype,55,floatstone,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-52,,collectie:secundairestructuurtype,52,fossielrijk,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-40,,collectie:secundairestructuurtype,40,FU-gegradeerde gelaagdheid,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-3,,collectie:secundairestructuurtype,3,geband,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-62,,collectie:secundairestructuurtype,62,geopetale structuur,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-48,,collectie:secundairestructuurtype,48,golvend laagvlak,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-24,,collectie:secundairestructuurtype,24,grainstone textuur,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-27,,collectie:secundairestructuurtype,27,hardground,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-36,,collectie:secundairestructuurtype,36,intraklasten,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-51,,collectie:secundairestructuurtype,51,kalkklasten,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-26,,collectie:secundairestructuurtype,26,karst / oplossing,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-47,,collectie:secundairestructuurtype,47,kleiklasten,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-50,,collectie:secundairestructuurtype,50,kleilenzen /-laagjes,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-54,,collectie:secundairestructuurtype,54,kleirijk laagvlak,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-8,,collectie:secundairestructuurtype,8,kriskras gelaagdheid,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-17,,collectie:secundairestructuurtype,17,laagvlak met koolbrokjes,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-2,,collectie:secundairestructuurtype,2,laminaties,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-58,,collectie:secundairestructuurtype,58,laminoid-fenestral structuur,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-4,,collectie:secundairestructuurtype,4,lensvormige gelaagdheid,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-60,,collectie:secundairestructuurtype,60,lignietbanken,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-59,,collectie:secundairestructuurtype,59,limoniet- / ijzerbanken,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-9,,collectie:secundairestructuurtype,9,load cast,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-5,,collectie:secundairestructuurtype,5,massief (compact),,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-15,,collectie:secundairestructuurtype,15,micarijk vlak,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-21,,collectie:secundairestructuurtype,21,mudstone textuur,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-14,,collectie:secundairestructuurtype,14,niet-gecompacteerde fossielen,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-53,,collectie:secundairestructuurtype,53,nodulair,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-0,,collectie:secundairestructuurtype,0,onbepaald,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-34,,collectie:secundairestructuurtype,34,oncolieten,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-33,,collectie:secundairestructuurtype,33,oölieten,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-23,,collectie:secundairestructuurtype,23,packstone textuur,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-32,,collectie:secundairestructuurtype,32,pellets,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-57,,collectie:secundairestructuurtype,57,pisoiden,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-35,,collectie:secundairestructuurtype,35,pisolieten,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-12,,collectie:secundairestructuurtype,12,'regendruppels' (cf. Planolites),,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-56,,collectie:secundairestructuurtype,56,rudstone,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-7,,collectie:secundairestructuurtype,7,schuine gelaagdheid,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-10,,collectie:secundairestructuurtype,10,slumping,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-43,,collectie:secundairestructuurtype,43,speleotheem,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-1,,collectie:secundairestructuurtype,1,straticulaties,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-45,,collectie:secundairestructuurtype,45,stroomribbels,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-42,,collectie:secundairestructuurtype,42,turbidiet,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-30,,collectie:secundairestructuurtype,30,uitdrogingsspleten,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-61,,collectie:secundairestructuurtype,61,veenbanken,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-20,,collectie:secundairestructuurtype,20,verspreide keien,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-29,,collectie:secundairestructuurtype,29,versteend / aaneengekit materiaal,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-22,,collectie:secundairestructuurtype,22,wackestone textuur,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-6,,collectie:secundairestructuurtype,6,zandwolken,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
-16,,collectie:secundairestructuurtype,16,zwart / kolig laagvlak,,,,,,,,,,,,,conceptscheme:secundairestructuurtype,,,,,,,conceptscheme:secundairestructuurtype
+conceptscheme:sedimentairestructuurtype,be.vlaanderen.bodemenondergrond.data.id.conceptscheme.sedimentairestructuurtype,,,Lijst van types secundaire structuren,,,,,,,,,,,,,,,,,,,,
+collectie:sedimentairestructuurtype,,,,Collectie van sedimentairestructuurtype.,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,
+18,,collectie:sedimentairestructuurtype,18,aangespoelde plantenresten / plantenhaksel,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+31,,collectie:sedimentairestructuurtype,31,bioklasten,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+19,,collectie:sedimentairestructuurtype,19,bioturbatie,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+44,,collectie:sedimentairestructuurtype,44,birdseyes,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+25,,collectie:sedimentairestructuurtype,25,boundstone textuur,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+49,,collectie:sedimentairestructuurtype,49,breccieus,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+38,,collectie:sedimentairestructuurtype,38,calcrete / caliche,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+11,,collectie:sedimentairestructuurtype,11,compactiebreuken,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+28,,collectie:sedimentairestructuurtype,28,concretie,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+41,,collectie:sedimentairestructuurtype,41,CU-gegradeerde gelaagdheid,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+13,,collectie:sedimentairestructuurtype,13,erosievlak,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+37,,collectie:sedimentairestructuurtype,37,evaporiet pseudomorfen,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+46,,collectie:sedimentairestructuurtype,46,fijn gebankt,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+55,,collectie:sedimentairestructuurtype,55,floatstone,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+52,,collectie:sedimentairestructuurtype,52,fossielrijk,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+40,,collectie:sedimentairestructuurtype,40,FU-gegradeerde gelaagdheid,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+3,,collectie:sedimentairestructuurtype,3,geband,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+62,,collectie:sedimentairestructuurtype,62,geopetale structuur,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+48,,collectie:sedimentairestructuurtype,48,golvend laagvlak,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+24,,collectie:sedimentairestructuurtype,24,grainstone textuur,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+27,,collectie:sedimentairestructuurtype,27,hardground,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+36,,collectie:sedimentairestructuurtype,36,intraklasten,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+51,,collectie:sedimentairestructuurtype,51,kalkklasten,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+26,,collectie:sedimentairestructuurtype,26,karst / oplossing,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+47,,collectie:sedimentairestructuurtype,47,kleiklasten,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+50,,collectie:sedimentairestructuurtype,50,kleilenzen /-laagjes,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+54,,collectie:sedimentairestructuurtype,54,kleirijk laagvlak,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+8,,collectie:sedimentairestructuurtype,8,kriskras gelaagdheid,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+17,,collectie:sedimentairestructuurtype,17,laagvlak met koolbrokjes,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+2,,collectie:sedimentairestructuurtype,2,laminaties,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+58,,collectie:sedimentairestructuurtype,58,laminoid-fenestral structuur,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+4,,collectie:sedimentairestructuurtype,4,lensvormige gelaagdheid,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+60,,collectie:sedimentairestructuurtype,60,lignietbanken,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+59,,collectie:sedimentairestructuurtype,59,limoniet- / ijzerbanken,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+9,,collectie:sedimentairestructuurtype,9,load cast,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+5,,collectie:sedimentairestructuurtype,5,massief (compact),,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+15,,collectie:sedimentairestructuurtype,15,micarijk vlak,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+21,,collectie:sedimentairestructuurtype,21,mudstone textuur,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+14,,collectie:sedimentairestructuurtype,14,niet-gecompacteerde fossielen,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+53,,collectie:sedimentairestructuurtype,53,nodulair,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+0,,collectie:sedimentairestructuurtype,0,onbepaald,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+34,,collectie:sedimentairestructuurtype,34,oncolieten,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+33,,collectie:sedimentairestructuurtype,33,oölieten,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+23,,collectie:sedimentairestructuurtype,23,packstone textuur,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+32,,collectie:sedimentairestructuurtype,32,pellets,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+57,,collectie:sedimentairestructuurtype,57,pisoiden,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+35,,collectie:sedimentairestructuurtype,35,pisolieten,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+12,,collectie:sedimentairestructuurtype,12,'regendruppels' (cf. Planolites),,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+56,,collectie:sedimentairestructuurtype,56,rudstone,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+7,,collectie:sedimentairestructuurtype,7,schuine gelaagdheid,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+10,,collectie:sedimentairestructuurtype,10,slumping,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+43,,collectie:sedimentairestructuurtype,43,speleotheem,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+1,,collectie:sedimentairestructuurtype,1,straticulaties,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+45,,collectie:sedimentairestructuurtype,45,stroomribbels,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+42,,collectie:sedimentairestructuurtype,42,turbidiet,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+30,,collectie:sedimentairestructuurtype,30,uitdrogingsspleten,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+61,,collectie:sedimentairestructuurtype,61,veenbanken,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+20,,collectie:sedimentairestructuurtype,20,verspreide keien,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+29,,collectie:sedimentairestructuurtype,29,versteend / aaneengekit materiaal,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+22,,collectie:sedimentairestructuurtype,22,wackestone textuur,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+6,,collectie:sedimentairestructuurtype,6,zandwolken,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype
+16,,collectie:sedimentairestructuurtype,16,zwart / kolig laagvlak,,,,,,,,,,,,,conceptscheme:sedimentairestructuurtype,,,,,,,conceptscheme:sedimentairestructuurtype

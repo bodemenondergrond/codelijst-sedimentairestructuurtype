@@ -1,8 +1,8 @@
-# codelijst-secundairestructuurtype
+# codelijst-sedimentairestructuurtype
 
 ## Samenvatting
 
-De codelijst 'secundairestructuurtype' bevat eenduidige benamingen van ...
+De codelijst 'sedimentairestructuurtype' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud

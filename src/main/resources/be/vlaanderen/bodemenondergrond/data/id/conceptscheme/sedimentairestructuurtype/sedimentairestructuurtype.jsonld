@@ -336,8 +336,8 @@
             "@id": "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo",
             "@type": "@id"
         },
-        "concept": "https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairestructuurtype/",
-        "collectie": "https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairestructuurtype/",
+        "concept": "https://data.bodemenondergrond.vlaanderen.be/id/concept/sedimentairestructuurtype/",
+        "collectie": "https://data.bodemenondergrond.vlaanderen.be/id/collection/sedimentairestructuurtype/",
         "access_right": "http://publications.europa.eu/resource/authority/access-right/",
         "adms": "http://www.w3.org/ns/adms#",
         "assettype": "http://purl.org/adms/assettype/",
@@ -391,13 +391,13 @@
         "wise": "http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/",
         "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#",
         "xsd": "http://www.w3.org/2001/XMLSchema#",
-        "@base": "https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairestructuurtype/"
+        "@base": "https://data.bodemenondergrond.vlaanderen.be/id/concept/sedimentairestructuurtype/"
     },
     "graph": [
         {
-            "id": "collectie:secundairestructuurtype",
+            "id": "collectie:sedimentairestructuurtype",
             "type": "skos:Collection",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "member": [
                 "concept:0",
                 "concept:10",
@@ -462,508 +462,508 @@
                 "concept:8",
                 "concept:9"
             ],
-            "prefLabel": "Collectie van secundairestructuurtype."
+            "prefLabel": "Collectie van sedimentairestructuurtype."
         },
         {
             "id": "concept:0",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "0",
             "prefLabel": "onbepaald",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:1",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "1",
             "prefLabel": "straticulaties",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:10",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "10",
             "prefLabel": "slumping",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:11",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "11",
             "prefLabel": "compactiebreuken",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:12",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "12",
             "prefLabel": "'regendruppels' (cf. Planolites)",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:13",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "13",
             "prefLabel": "erosievlak",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:14",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "14",
             "prefLabel": "niet-gecompacteerde fossielen",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:15",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "15",
             "prefLabel": "micarijk vlak",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:16",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "16",
             "prefLabel": "zwart / kolig laagvlak",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:17",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "17",
             "prefLabel": "laagvlak met koolbrokjes",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:18",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "18",
             "prefLabel": "aangespoelde plantenresten / plantenhaksel",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:19",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "19",
             "prefLabel": "bioturbatie",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:2",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "2",
             "prefLabel": "laminaties",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:20",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "20",
             "prefLabel": "verspreide keien",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:21",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "21",
             "prefLabel": "mudstone textuur",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:22",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "22",
             "prefLabel": "wackestone textuur",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:23",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "23",
             "prefLabel": "packstone textuur",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:24",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "24",
             "prefLabel": "grainstone textuur",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:25",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "25",
             "prefLabel": "boundstone textuur",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:26",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "26",
             "prefLabel": "karst / oplossing",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:27",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "27",
             "prefLabel": "hardground",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:28",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "28",
             "prefLabel": "concretie",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:29",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "29",
             "prefLabel": "versteend / aaneengekit materiaal",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:3",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "3",
             "prefLabel": "geband",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:30",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "30",
             "prefLabel": "uitdrogingsspleten",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:31",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "31",
             "prefLabel": "bioklasten",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:32",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "32",
             "prefLabel": "pellets",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:33",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "33",
             "prefLabel": "oölieten",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:34",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "34",
             "prefLabel": "oncolieten",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:35",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "35",
             "prefLabel": "pisolieten",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:36",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "36",
             "prefLabel": "intraklasten",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:37",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "37",
             "prefLabel": "evaporiet pseudomorfen",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:38",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "38",
             "prefLabel": "calcrete / caliche",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:4",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "4",
             "prefLabel": "lensvormige gelaagdheid",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:40",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "40",
             "prefLabel": "FU-gegradeerde gelaagdheid",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:41",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "41",
             "prefLabel": "CU-gegradeerde gelaagdheid",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:42",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "42",
             "prefLabel": "turbidiet",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:43",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "43",
             "prefLabel": "speleotheem",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:44",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "44",
             "prefLabel": "birdseyes",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:45",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "45",
             "prefLabel": "stroomribbels",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:46",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "46",
             "prefLabel": "fijn gebankt",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:47",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "47",
             "prefLabel": "kleiklasten",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:48",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "48",
             "prefLabel": "golvend laagvlak",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:49",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "49",
             "prefLabel": "breccieus",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:5",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "5",
             "prefLabel": "massief (compact)",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:50",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "50",
             "prefLabel": "kleilenzen /-laagjes",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:51",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "51",
             "prefLabel": "kalkklasten",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:52",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "52",
             "prefLabel": "fossielrijk",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:53",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "53",
             "prefLabel": "nodulair",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:54",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "54",
             "prefLabel": "kleirijk laagvlak",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:55",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "55",
             "prefLabel": "floatstone",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:56",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "56",
             "prefLabel": "rudstone",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:57",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "57",
             "prefLabel": "pisoiden",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:58",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "58",
             "prefLabel": "laminoid-fenestral structuur",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:59",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "59",
             "prefLabel": "limoniet- / ijzerbanken",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:6",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "6",
             "prefLabel": "zandwolken",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:60",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "60",
             "prefLabel": "lignietbanken",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:61",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "61",
             "prefLabel": "veenbanken",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:62",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "62",
             "prefLabel": "geopetale structuur",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:7",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "7",
             "prefLabel": "schuine gelaagdheid",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:8",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "8",
             "prefLabel": "kriskras gelaagdheid",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
             "id": "concept:9",
             "type": "skos:Concept",
-            "inScheme": "conceptscheme:secundairestructuurtype",
+            "inScheme": "conceptscheme:sedimentairestructuurtype",
             "notation": "9",
             "prefLabel": "load cast",
-            "topConceptOf": "conceptscheme:secundairestructuurtype"
+            "topConceptOf": "conceptscheme:sedimentairestructuurtype"
         },
         {
-            "id": "conceptscheme:secundairestructuurtype",
+            "id": "conceptscheme:sedimentairestructuurtype",
             "type": "skos:ConceptScheme",
-            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.secundairestructuurtype",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.sedimentairestructuurtype",
             "hasTopConcept": [
                 "concept:0",
                 "concept:10",
